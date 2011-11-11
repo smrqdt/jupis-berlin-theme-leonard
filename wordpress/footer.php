@@ -6,9 +6,9 @@
 			</section> 
 			<section id="footer_content"> 
 				<div> 
-				<?php wp_list_bookmarks('category=2'); ?>	
+				<?php wp_list_bookmarks('category=3'); ?>	
 				</div> 
-				<div> <?php wp_list_bookmarks('category=3'); ?>
+				<div> <?php wp_list_bookmarks('category=4'); ?>
 				</div> 
 			</section> 
 		</footer>

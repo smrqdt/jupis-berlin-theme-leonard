@@ -5,6 +5,6 @@
 			</ul> 
 			<h2>Links</h2>
 			<ul>
-				<?php wp_list_bookmarks('category=1'); ?>
+				<?php wp_list_bookmarks('category=2'); ?>
 			</ul>	
 		</aside>
